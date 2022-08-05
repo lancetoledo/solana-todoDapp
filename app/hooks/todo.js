@@ -14,7 +14,7 @@ let dummyTodos = [
     {
         account:{
             idx: '0',
-            content: 'Finish the essay collaboration',
+            content: 'Learn Solana',
             marked: false,
         }
 
